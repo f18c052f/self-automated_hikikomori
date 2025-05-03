@@ -5,7 +5,7 @@
 ## 1. 概要
 
 スイッチを ON にすると、自動で OFF にしてくるロボットです。
-[Yotube](https://youtu.be/gk-dLM3qwz0)
+[Youtube](https://youtu.be/gk-dLM3qwz0)
 
 以下の動画を参考にしました。
 
